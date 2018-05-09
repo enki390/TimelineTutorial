@@ -6,6 +6,11 @@ public class RotateAround : MonoBehaviour {
     public float Distance = 5.0f;
     public float AnglePerSec = 90.0f;
 
+    void Start()
+    {
+        transform.localPosition = transform.parent.right * Distance;
+    }
+
 	// Update is called once per frame
 	void Update () {
         Transform parent = transform.parent;
