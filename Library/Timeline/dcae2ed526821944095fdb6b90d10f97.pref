@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1890111309, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeInFrames: 0
+  timeAreaShownRange: {x: -2.1175077, y: 259.60645}
+  showAudioWaveform: 1
+  trackHeight: 30
+  trackScale: 1
+  playRangeEnabled: 0
+  timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
+  windowTime: 55.05
+  m_Keys:
+  - {fileID: 114082536560240686, guid: dcae2ed526821944095fdb6b90d10f97, type: 2}
+  - {fileID: 114686866630261384, guid: dcae2ed526821944095fdb6b90d10f97, type: 2}
+  - {fileID: 114234125340500808, guid: dcae2ed526821944095fdb6b90d10f97, type: 2}
+  - {fileID: 114179361294701878, guid: dcae2ed526821944095fdb6b90d10f97, type: 2}
+  - {fileID: 114694690511556434, guid: dcae2ed526821944095fdb6b90d10f97, type: 2}
+  - {fileID: 114778284299460148, guid: dcae2ed526821944095fdb6b90d10f97, type: 2}
+  - {fileID: 114754370291712160, guid: dcae2ed526821944095fdb6b90d10f97, type: 2}
+  - {fileID: 114352683989846626, guid: dcae2ed526821944095fdb6b90d10f97, type: 2}
+  - {fileID: 114313656702428934, guid: dcae2ed526821944095fdb6b90d10f97, type: 2}
+  m_Vals:
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 95
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
